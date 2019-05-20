@@ -1,0 +1,3 @@
+UseCase1:
+repoName:https://github.com/KrithiGanesh/devopsgitrepo.git
+Branches: Master and devlopment
